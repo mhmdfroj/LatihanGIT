@@ -1,0 +1,2 @@
+# LatihanGIT
+Belajar GIT Dasar
